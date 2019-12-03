@@ -17,5 +17,6 @@ fields:
     - main
   label: Menu
 pages:
+- content/Folder A/test-page-in-folder.md
 - content/test-page-b.md
 - content/test-page-a.md
