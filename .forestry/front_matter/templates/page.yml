@@ -17,4 +17,5 @@ fields:
     - main
   label: Menu
 pages:
+- content/test-page-b.md
 - content/test-page-a.md
